@@ -65,6 +65,10 @@ The panel must be powered by 5V AC adapter with enough current capacity. (Curren
 
 A [typical RGB panel available for purchase](https://www.aliexpress.com/item/256-128mm-64-32-pixels-1-16-Scan-Indoor-3in1-SMD2121-RGB-full-color-P4-led/32810362851.html). This is of the larger P4 (4mm spacing between pixels) type. 
 
+If you want it more professional, some users have created custom PCBs to get rid of all those lose cables.
+
+  * [cxandy](https://github.com/cxandy/AZSMZ-ESPMatrixPanel)
+
 # Usage
 
 Refer to the excellent PxMatrix based library for how to wire one of these panels up (in fact, it's probably best to first get your panel working with this library first to be sure): https://github.com/2dom/PxMatrix
